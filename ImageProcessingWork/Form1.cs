@@ -100,7 +100,7 @@ namespace ImageProcessingWork
             return yeniResim;
         }
 
-        //frekans filtreleme btuon
+        //frekans filtreleme btuonu
         private void yuksekFiltre_Btn_Click(object sender, EventArgs e)
         {
             if (originalImage == null)
